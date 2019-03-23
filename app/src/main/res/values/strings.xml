@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TareaLabo3</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre</string>
+    <string name="sexo">Sexo</string>
+    <string name="enviar">Enviar</string>
+    <string name="edad">Edad</string>
+    <string name="compartir">compartir</string>
+</resources>
